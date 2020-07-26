@@ -380,7 +380,7 @@ header {
   background: #cc0066;
 }
 .measure__javascript {
-  width: 80%;
+  width: 85%;
 }
 .measure__typescript {
   width: 80%;
@@ -389,7 +389,7 @@ header {
   width: 50%;
 }
 .measure__sql {
-  width: 72%;
+  width: 70%;
 }
 .measure__java {
   width: 30%;
