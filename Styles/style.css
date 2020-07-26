@@ -805,7 +805,6 @@ footer {
     border: 1px solid #cc0066;
     border-radius: 3px;
     align-content: space-between;
-    box-shadow: 0px 0px 6px 2px #cc0066;
   }
   .stroke {
     width: 95%;
